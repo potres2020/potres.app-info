@@ -19,7 +19,7 @@ Recimo, možemo linkati na digitalni ortofoto:
 
 ### Donatori
 <div style="vertical-align:middle" >
-<a href="https://www.infobip.com/"><img src="ib-logo.jpg" width="2%" style="vertical-align:middle" alt="Infobip, donator usluga komunikacija"></a>
+<a href="https://www.infobip.com/"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/ib-logo.jpg" width="2%" style="vertical-align:middle" alt="Infobip, donator usluga komunikacija"></a>
 <span style="vertical-align:middle">
 <a href="https://www.infobip.com/">Infobip, donator usluga komunikacija</a>
 </span>
