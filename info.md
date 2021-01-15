@@ -9,8 +9,7 @@
 - Matični ured Glina: **[500-179](tel:044500179)**
 - Pomoć oko obrazaca za jednokratnu pomoć CZSS i Ministarstva Hrvatskih Branitelja — ured gradonačelnika: **[551-600](tel:044551600)**
 
-
-Recimo, možemo linkati na digitalni ortofoto:
+Digitalni ortofoto linkovi:
 
 - Sisak: [http://baze.geof.hr/potres2020/20210103_Sisak/](http://baze.geof.hr/potres2020/20210103_Sisak/)
 - Petrinja: [http://baze.geof.hr/potres2020/20201230_tr/](http://baze.geof.hr/potres2020/20201230_tr/)
