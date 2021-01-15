@@ -18,9 +18,9 @@ Recimo, možemo linkati na digitalni ortofoto:
 - Drenčina: [http://baze.geof.hr/potres2020/20210102_Drencina/](http://baze.geof.hr/potres2020/20210102_Drencina/)
 
 ### Donatori
-<div style="vertical-align:middle" >
-<a href="https://www.infobip.com/"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/ib-logo.jpg" width="2%" style="vertical-align:middle" alt="Infobip, donator usluga komunikacija"></a>
-<span style="vertical-align:middle">
+<div>
+<a href="https://www.infobip.com/"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/ib-logo.jpg" width="2%" alt="Infobip, donator usluga komunikacija"></a>
+<span>
 <a href="https://www.infobip.com/">Infobip, donator usluga komunikacija</a>
 </span>
 </div>
