@@ -26,3 +26,4 @@ Digitalni ortofoto:
     <td><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo-25px.png" alt="Integromat, donator dvomjesečne Standard pretplate"></a></td>
     <td><a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></td>
   </tr>
+ </table>
