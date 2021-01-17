@@ -18,4 +18,4 @@ Digitalni ortofoto linkovi:
 
 ### Donatori
  - <div><a href="https://www.infobip.com/"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/ib-logo.jpg" width="2%" alt="Infobip, donator usluga komunikacija"></a><span> <a href="https://www.infobip.com/">Infobip, donator usluga komunikacija</a></span></div>
- - <div><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo.png" width="3%" alt="Integromat, donator dvomjesečne Standard pretplate"></a><span> <a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></span></div>
+ - <div><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo.png" width="2%" alt="Integromat, donator dvomjesečne Standard pretplate"></a><span> <a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></span></div>
