@@ -17,7 +17,7 @@ Digitalni ortofoto:
 - Drenčina: [http://baze.geof.hr/potres2020/20210102_Drencina/](http://baze.geof.hr/potres2020/20210102_Drencina/)
  
 #### Donatori
-<table style="border: none; background: transparent;">
+<table>
   <tr>
     <td><a href="https://www.infobip.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/infobip-logo-25px.jpg" alt="Infobip, donator usluga komunikacija"></a></td>
     <td><a href="https://www.infobip.com">Infobip, donator usluga komunikacija</a></td>
