@@ -1,4 +1,4 @@
-### Službeni kontakt brojevi za područje grada Gline. — <u>[*izvor](https://www.facebook.com/GradGlina/posts/3754092951341509)</u>
+#### Službeni kontakt brojevi za područje grada Gline. — <u>[*izvor](https://www.facebook.com/GradGlina/posts/3754092951341509)</u>
 - Statičari: **[099 495 41 61](tel:0994954161)**
 - Prijave oštećenja: **[551-600](tel:044551600)**
 - Hitne intervencije / uklanjanje dimnjaka: **[551-615](tel:044541615)**
@@ -9,13 +9,20 @@
 - Matični ured Glina: **[500-179](tel:044500179)**
 - Pomoć oko obrazaca za jednokratnu pomoć CZSS i Ministarstva Hrvatskih Branitelja — ured gradonačelnika: **[551-600](tel:044551600)**
 
-Digitalni ortofoto linkovi:
+Digitalni ortofoto:
 
 - Sisak: [http://baze.geof.hr/potres2020/20210103_Sisak/](http://baze.geof.hr/potres2020/20210103_Sisak/)
 - Petrinja: [http://baze.geof.hr/potres2020/20201230_tr/](http://baze.geof.hr/potres2020/20201230_tr/)
 - Mošćenica: [http://baze.geof.hr/potres2020/20210105_Moscenica/](http://baze.geof.hr/potres2020/20210105_Moscenica/)
 - Drenčina: [http://baze.geof.hr/potres2020/20210102_Drencina/](http://baze.geof.hr/potres2020/20210102_Drencina/)
-
-### Donatori
- <div><a href="https://www.infobip.com/"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/ib-logo.jpg" width="2%" alt="Infobip, donator usluga komunikacija" style="vertical-align:middle"></a><span> <a href="https://www.infobip.com/">Infobip, donator usluga komunikacija</a></span></div>
- <div><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo.png" width="2%" alt="Integromat, donator dvomjesečne Standard pretplate" style="vertical-align:middle"></a><span> <a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></span></div>
+ 
+#### Donatori
+<table style="border: 0px">
+  <tr>
+    <td><a href="https://www.infobip.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/infobip-logo-25px.jpg" alt="Infobip, donator usluga komunikacija"></a></td>
+    <td><a href="https://www.infobip.com">Infobip, donator usluga komunikacija</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo-25px.png" alt="Integromat, donator dvomjesečne Standard pretplate"></a></td>
+    <td><a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></td>
+  </tr>
